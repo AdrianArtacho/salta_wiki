@@ -1,4 +1,6 @@
 site_name: SALTA Wiki
+site_url: https://AdrianArtacho.github.io/salta_wiki/
+repo_url: https://github.com/AdrianArtacho/salta_wiki
 theme:
   name: material
   logo: media/logo.png
