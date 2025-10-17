@@ -1,0 +1,17 @@
+site_name: SALTA Wiki
+theme:
+  name: material
+  language: en
+nav:
+  - Home: docs/index.md
+  - Getting Started: docs/getting-started.md
+  - User Guide:
+      - Overview: docs/user-guide/overview.md
+      - Data Input: docs/user-guide/data-input.md
+  - Installation: docs/installation.md
+  - About: docs/about.md
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true

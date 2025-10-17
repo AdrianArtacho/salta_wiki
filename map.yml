@@ -1,0 +1,10 @@
+defaults:
+  namespace: "Project"
+  categories: ["SALTA"]
+pages:
+  - src: docs/index.md
+    title: "Project:SALTA"
+  - src: docs/installation.md
+    title: "Project:SALTA/Installation"
+  - src: docs/user-guide/overview.md
+    title: "Project:SALTA/User Guide/Overview"
