@@ -1,7 +1,7 @@
 # SALTA Documentation
 
 Welcome to the SALTA Wiki.  
-This page introduces the main concepts, architecture, and usage guidelines.
+This page introduces the main concepts, architecture, and usage guidelines of the SALTA tool.
 
 ## Sections
 - [Installation](installation.md)

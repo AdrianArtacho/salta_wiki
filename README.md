@@ -32,3 +32,9 @@ If you want to see what your pages will look like in MediaWiki syntax before pub
 brew install pandoc     # or apt/yum on Linux
 pandoc -f gfm -t mediawiki docs/index.md -o preview.wiki
 ```
+
+---
+
+## Github pages deployment
+
+[https://AdrianArtacho.github.io/salta_wiki/](https://AdrianArtacho.github.io/salta_wiki/)
