@@ -1,6 +1,7 @@
 site_name: SALTA Wiki
 theme:
   name: material
+  logo: media/logo.png
   language: en
 nav:
   - Home: docs/index.md
@@ -15,3 +16,4 @@ markdown_extensions:
   - codehilite
   - toc:
       permalink: true
+
