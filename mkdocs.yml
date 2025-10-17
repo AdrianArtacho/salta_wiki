@@ -6,13 +6,13 @@ theme:
   logo: media/logo.png
   language: en
 nav:
-  - Home: docs/index.md
-  - Getting Started: docs/getting-started.md
+  - Home: index.md
+  - Getting Started: getting-started.md
   - User Guide:
-      - Overview: docs/user-guide/overview.md
-      - Data Input: docs/user-guide/data-input.md
-  - Installation: docs/installation.md
-  - About: docs/about.md
+      - Overview: user-guide/overview.md
+      - Data Input: user-guide/data-input.md
+  - Installation: installation.md
+  - About: about.md
 markdown_extensions:
   - admonition
   - codehilite

@@ -38,3 +38,9 @@ pandoc -f gfm -t mediawiki docs/index.md -o preview.wiki
 ## Github pages deployment
 
 [https://AdrianArtacho.github.io/salta_wiki/](https://AdrianArtacho.github.io/salta_wiki/)
+
+Every time you edit any .md file locally, just run:
+
+```bash
+mkdocs gh-deploy
+```
