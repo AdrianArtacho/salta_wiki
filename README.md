@@ -1,5 +1,7 @@
 # SALTA-wiki repository
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17379642.svg)](https://doi.org/10.5281/zenodo.17379642)
+
 The goal is to edit the wiki locally, before implementing it in the server.
 
 ## Installation
