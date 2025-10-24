@@ -8,6 +8,10 @@ Data preparation and possible scenarios...
 - Find out the framerate (for reference) using the terminal
 - If the video needs to be converted from the device’s native format
 
+1) Open it in VLC
+2) Convert/Save
+3) Don’t forget to set the input/output files in the dialog
+
 Videos may require transcoding or cropping before analysis.
 For example, the lines below ensure the correct frame rate is known prior to processing:
 
@@ -29,3 +33,11 @@ avoiding re-encoding artefacts.
 ## Cropping / masking
 
 - If the video needs to be cropped before processing
+
+### in MacOS
+
+1) Open in iMovie
+2) Select ressource
+3) crop settings
+4) put ressource onto the timeline
+5) "Share" as file
