@@ -41,3 +41,10 @@ avoiding re-encoding artefacts.
 3) crop settings
 4) put ressource onto the timeline
 5) "Share" as file
+
+## IMU Capture
+
+### Smartphone
+
+There are several options to use in-built smartphone IMUs as a real-time measurement device, one that strikes us as ideal
+for being completely programmable is MobMuPlat https://danieliglesia.com/mobmuplat/
